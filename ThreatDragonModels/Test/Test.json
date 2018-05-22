@@ -45,7 +45,7 @@
                 "height": 100
               },
               "position": {
-                "x": 49,
+                "x": 48,
                 "y": 237
               },
               "angle": 0,
@@ -71,7 +71,7 @@
                 "height": 100
               },
               "position": {
-                "x": 305,
+                "x": 304,
                 "y": 156
               },
               "angle": 0,
@@ -218,6 +218,40 @@
                 }
               ],
               "z": 9,
+              "hasOpenThreats": false,
+              "attrs": {
+                ".marker-target": {
+                  "class": "marker-target hasNoOpenThreats isInScope"
+                },
+                ".connection": {
+                  "class": "connection hasNoOpenThreats isInScope"
+                }
+              }
+            },
+            {
+              "type": "tm.Flow",
+              "smooth": true,
+              "source": {
+                "id": "348bb493-ebdd-46a7-a356-fd27bed0298d"
+              },
+              "target": {
+                "id": "842e1ca2-6808-4e3e-9db9-cab26dcde6d9"
+              },
+              "vertices": [],
+              "id": "4477e429-675c-4d50-ad32-33844904fd0e",
+              "labels": [
+                {
+                  "position": 0.5,
+                  "attrs": {
+                    "text": {
+                      "text": "State update info,\ndiscovery info",
+                      "font-weight": "400",
+                      "font-size": "small"
+                    }
+                  }
+                }
+              ],
+              "z": 10,
               "hasOpenThreats": false,
               "attrs": {
                 ".marker-target": {
