@@ -203,7 +203,16 @@
               "target": {
                 "id": "842e1ca2-6808-4e3e-9db9-cab26dcde6d9"
               },
-              "vertices": [],
+              "vertices": [
+                {
+                  "x": 170,
+                  "y": 82
+                },
+                {
+                  "x": 257,
+                  "y": 90
+                }
+              ],
               "id": "3bdb35f0-2059-480e-8f3e-47a3609f60c9",
               "labels": [
                 {
@@ -237,11 +246,23 @@
               "target": {
                 "id": "842e1ca2-6808-4e3e-9db9-cab26dcde6d9"
               },
-              "vertices": [],
+              "vertices": [
+                {
+                  "x": 202,
+                  "y": 309
+                },
+                {
+                  "x": 269,
+                  "y": 297
+                }
+              ],
               "id": "4477e429-675c-4d50-ad32-33844904fd0e",
               "labels": [
                 {
-                  "position": 0.5,
+                  "position": {
+                    "distance": 0.57443103867722,
+                    "offset": 26.227644882630557
+                  },
                   "attrs": {
                     "text": {
                       "text": "State update info,\ndiscovery info",
