@@ -193,6 +193,40 @@
                   "class": "element-text hasNoOpenThreats isInScope"
                 }
               }
+            },
+            {
+              "type": "tm.Flow",
+              "smooth": true,
+              "source": {
+                "id": "f87b9e82-e7d9-47e9-a9f1-541ba8220658"
+              },
+              "target": {
+                "id": "842e1ca2-6808-4e3e-9db9-cab26dcde6d9"
+              },
+              "vertices": [],
+              "id": "3bdb35f0-2059-480e-8f3e-47a3609f60c9",
+              "labels": [
+                {
+                  "position": 0.5,
+                  "attrs": {
+                    "text": {
+                      "text": "State update info,\ndiscovery info",
+                      "font-weight": "400",
+                      "font-size": "small"
+                    }
+                  }
+                }
+              ],
+              "z": 9,
+              "hasOpenThreats": false,
+              "attrs": {
+                ".marker-target": {
+                  "class": "marker-target hasNoOpenThreats isInScope"
+                },
+                ".connection": {
+                  "class": "connection hasNoOpenThreats isInScope"
+                }
+              }
             }
           ]
         },
